@@ -81,7 +81,7 @@ courses:
     - front-end-engineering
     tuition: 3,150
     tuition_units: USD
- web-development-basics-in-person:
+  web-development-basics-in-person:
     admissions: open to anyone
     cities:
     - atlanta
