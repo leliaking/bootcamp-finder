@@ -118,7 +118,7 @@ courses:
     - front-end-engineering
     tuition: 900
     tuition_units: USD
-     web-development-basics-online:
+    web-development-basics-online:
     admissions: open to anyone
     cities:
     - remote
