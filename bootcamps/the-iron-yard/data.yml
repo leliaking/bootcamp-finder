@@ -3,7 +3,7 @@ display_name: The Iron Yard
 founded_year: 2011
 meta-description: Reviews for The Iron Yard code school. Learn about courses offered at The Iron Yard's coding bootcamp.
 primary_email: hello@theironyard.com
-courses:
+programs:
   web-development-career-path:
     admissions: application, interview
     cities:
