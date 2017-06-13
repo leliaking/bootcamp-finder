@@ -38,7 +38,6 @@ programs:
     - javascript
     - html
     - css
-    - front-end-engineering
     - back-end-engineering
     - ruby
     - java
@@ -78,7 +77,6 @@ programs:
     - javascript
     - html
     - css
-    - front-end-engineering
     tuition: 3,150
     tuition_units: USD
   web-development-basics-in-person:
@@ -115,7 +113,6 @@ programs:
     - javascript
     - html
     - css
-    - front-end-engineering
     tuition: 900
     tuition_units: USD
   web-development-basics-online:
@@ -138,7 +135,6 @@ programs:
     - javascript
     - html
     - css
-    - front-end-engineering
     tuition: 480
     tuition_units: USD
 tagline: Take charge of your career. Part-time and full-time web development courses available. 
