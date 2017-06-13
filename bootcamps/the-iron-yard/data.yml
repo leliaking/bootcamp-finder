@@ -20,7 +20,7 @@ programs:
     - nashville
     - orlando
     - raleigh
-    - tampa-bay
+    - tampa
     - washington-dc
     commitment: full-time
     cost_description: $13,900
@@ -60,7 +60,7 @@ programs:
     - nashville
     - orlando
     - raleigh
-    - tampa-bay
+    - tampa
     - washington-dc
     commitment: part-time
     cost_description: $3,150
@@ -97,7 +97,7 @@ programs:
     - nashville
     - orlando
     - raleigh
-    - tampa-bay
+    - tampa
     - washington-dc
     commitment: part-time
     cost_description: $900
