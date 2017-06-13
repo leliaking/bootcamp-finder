@@ -40,8 +40,8 @@ programs:
     - css
     - front-end-engineering
     - back-end-engineering
-    - Ruby
-    - Java
+    - ruby
+    - java
     tuition: 13,900
     tuition_units: USD
   interactive-web-development:
@@ -118,7 +118,7 @@ programs:
     - front-end-engineering
     tuition: 900
     tuition_units: USD
-    web-development-basics-online:
+  web-development-basics-online:
     admissions: open to anyone
     cities:
     - remote
